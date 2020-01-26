@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="51926436-cdf0-425e-ba0d-c67236134fcf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../MentoringSeleniumAutomation/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../MentoringSeleniumAutomation/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MentoringSeleniumAutomation/Generic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MentoringSeleniumAutomation/Generic/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MentoringSeleniumAutomation/Newegg/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MentoringSeleniumAutomation/Newegg/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MentoringSeleniumAutomation/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MentoringSeleniumAutomation/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team1SeleniumAutomationProject/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Team1SeleniumAutomationProject/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team1SeleniumAutomationProject/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Team1SeleniumAutomationProject/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team1SeleniumAutomationProject/Alibaba/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Team1SeleniumAutomationProject/Alibaba/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team1SeleniumAutomationProject/Generic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Team1SeleniumAutomationProject/Generic/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team1SeleniumAutomationProject/Generic/src/main/java/common/CommonAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team1SeleniumAutomationProject/Team1SeleniumAutomationProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team1SeleniumTestAutomationProjcet/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team1SeleniumTestAutomationProjcet/Generic/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team1SeleniumTestAutomationProjcet/Team1SeleniumTestAutomationProjcet.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letskodeit/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Letskodeit/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letskodeit/src/main/java/practice/PracticePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Letskodeit/src/main/java/practice/PracticePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letskodeit/src/test/resources/letsdoitRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Letskodeit/src/test/resources/letsdoitRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WjSigYDTuhCZjJtLe8d6eHfJxX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/mafiautomation/WebAutomationDecember2019" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Sydul\Documents\Java Projects\SeleniumTestProject\Generic\src\main\java\driver" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/Sydul/Documents/Java Projects/SeleniumTestProject/Newegg/src/test/resources/NeweggRunner.xml">
+    <configuration name="C:/Users/Sydul/Documents/Java Projects/SeleniumTestProject/Cricinfo/src/test/resources/CricinfoRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Cricinfo" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Cricinfo/src/test/resources/CricinfoRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Sydul/Documents/Java Projects/SeleniumTestProject/Newegg/src/test/resources/NeweggRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Newegg" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Newegg/src/test/resources/NeweggRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CricinfoHomePage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Cricinfo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="home.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="home" />
+      <option name="MAIN_CLASS_NAME" value="home.CricinfoHomePage" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NeweggHomePage.testClickOnNeweggLogo" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Newegg" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="home.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="home" />
+      <option name="MAIN_CLASS_NAME" value="home.NeweggHomePage" />
+      <option name="METHOD_NAME" value="testClickOnNeweggLogo" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/Sydul/Documents/Java Projects/SeleniumTestProject/Newegg/src/test/resources/NeweggRunner.xml" />
+        <item itemvalue="TestNG.C:/Users/Sydul/Documents/Java Projects/SeleniumTestProject/Cricinfo/src/test/resources/CricinfoRunner.xml" />
+        <item itemvalue="TestNG.CricinfoHomePage" />
+        <item itemvalue="TestNG.NeweggHomePage.testClickOnNeweggLogo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51926436-cdf0-425e-ba0d-c67236134fcf" name="Default Changelist" comment="" />
+      <created>1579661639665</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579661639665</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="273" y="191" key="#Project_Structure" timestamp="1579667707648">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="273" y="191" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1579667707648" />
+    <state x="670" y="335" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579872637627">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="670" y="335" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1579872637627" />
+    <state x="690" y="248" key="FileChooserDialogImpl" timestamp="1579994577152">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="248" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1579994577152" />
+    <state width="1865" height="245" key="GridCell.Tab.0.bottom" timestamp="1579986966600">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="245" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579986966600" />
+    <state width="1865" height="245" key="GridCell.Tab.0.center" timestamp="1579986966600">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="245" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579986966599" />
+    <state width="1865" height="245" key="GridCell.Tab.0.left" timestamp="1579986966599">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="245" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579986966599" />
+    <state width="1865" height="245" key="GridCell.Tab.0.right" timestamp="1579986966600">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="245" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579986966600" />
+    <state x="591" y="332" key="com.intellij.ide.util.TipDialog" timestamp="1579990483399">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="591" y="332" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579990483399" />
+    <state x="122" y="33" key="new project wizard" timestamp="1579992726642">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="122" y="33" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1579992726642" />
+    <state x="532" y="254" key="run.anything.popup" timestamp="1579836990892">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="532" y="254" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1579836990892" />
+    <state x="653" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1579669585831">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="653" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1579669585831" />
+  </component>
+</project>

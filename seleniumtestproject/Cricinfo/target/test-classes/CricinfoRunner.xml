@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Cricinfo Tests" parallel="false">
+
+    <parameter name="url" value="https://www.Cricinfo.com"/>
+
+    <test name = "Cricinfo Home">
+        <classes>
+            <class name="home.CricinfoHomePage"/>
+        </classes>
+    </test>
+
+</suite>
